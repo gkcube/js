@@ -1,4 +1,4 @@
-function wb1() {$("cm1").slideUp();$("wm1").fadeIn();$("wm1").delay(200).fadeOut('slow');} 
+function wb1() {$("cm1").slideUp();$("wm1").fadeIn();$("wm1").delay(200).slideUp('slow');} 
 
 function cb1() { $("cb1").hide();$("wb1").hide();$("ch1").fadeIn();
 var sbox = document.getElementById('sbox'); var n = sbox.innerHTML; n++; sbox.innerHTML = n;$("wm1").slideUp();$("cm1").slideDown();}
