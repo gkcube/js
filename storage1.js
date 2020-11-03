@@ -1,6 +1,5 @@
 function ccc() {document.getElementById('sbox').stepUp(4);
 localStorage.setItem('n1', $('nbox').html());localStorage.setItem('q1', $('#sbox').val());}
-
 function www() {document.getElementById('sbox').stepDown(1);
 localStorage.setItem('n1', $('nbox').html());localStorage.setItem('q1', $('#sbox').val());}
 
