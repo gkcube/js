@@ -62,29 +62,29 @@ function cb31() {$('nbox').html('30');cbs31(); $('cb31').hide();$('wb31').hide()
 
 function cb32() {$('nbox').html('31');cbs32(); $('cb32').hide();$('wb32').hide();$('ch32').fadeIn();$('wm32').fadeOut('fast');$('cm32').slideDown('fast');}
 
-function cb33() {$('nbox').html('32');cbs1(); $('cb33').hide();$('wb33').hide();$('ch33').fadeIn();$('wm33').fadeOut('fast');$('cm33').slideDown('fast');}
+function cb33() {$('nbox').html('32');cbs33(); $('cb33').hide();$('wb33').hide();$('ch33').fadeIn();$('wm33').fadeOut('fast');$('cm33').slideDown('fast');}
 
-function cb34() {$('nbox').html('33');cbs2(); $('cb34').hide();$('wb34').hide();$('ch34').fadeIn();$('wm34').fadeOut('fast');$('cm34').slideDown('fast');}
+function cb34() {$('nbox').html('33');cbs34(); $('cb34').hide();$('wb34').hide();$('ch34').fadeIn();$('wm34').fadeOut('fast');$('cm34').slideDown('fast');}
 
-function cb35() {$('nbox').html('34');cbs3(); $('cb35').hide();$('wb35').hide();$('ch35').fadeIn();$('wm35').fadeOut('fast');$('cm35').slideDown('fast');}
+function cb35() {$('nbox').html('34');cbs35(); $('cb35').hide();$('wb35').hide();$('ch35').fadeIn();$('wm35').fadeOut('fast');$('cm35').slideDown('fast');}
 
-function cb36() {$('nbox').html('35');cbs4(); $('cb36').hide();$('wb36').hide();$('ch36').fadeIn();$('wm36').fadeOut('fast');$('cm36').slideDown('fast');}
+function cb36() {$('nbox').html('35');cbs36(); $('cb36').hide();$('wb36').hide();$('ch36').fadeIn();$('wm36').fadeOut('fast');$('cm36').slideDown('fast');}
 
-function cb37() {$('nbox').html('36');cbs5(); $('cb37').hide();$('wb37').hide();$('ch37').fadeIn();$('wm37').fadeOut('fast');$('cm37').slideDown('fast');}
+function cb37() {$('nbox').html('36');cbs37(); $('cb37').hide();$('wb37').hide();$('ch37').fadeIn();$('wm37').fadeOut('fast');$('cm37').slideDown('fast');}
 
-function cb38() {$('nbox').html('37');cbs6(); $('cb38').hide();$('wb38').hide();$('ch38').fadeIn();$('wm38').fadeOut('fast');$('cm38').slideDown('fast');}
+function cb38() {$('nbox').html('37');cbs38(); $('cb38').hide();$('wb38').hide();$('ch38').fadeIn();$('wm38').fadeOut('fast');$('cm38').slideDown('fast');}
 
-function cb39() {$('nbox').html('38');cbs7(); $('cb39').hide();$('wb39').hide();$('ch39').fadeIn();$('wm39').fadeOut('fast');$('cm39').slideDown('fast');}
+function cb39() {$('nbox').html('38');cbs39(); $('cb39').hide();$('wb39').hide();$('ch39').fadeIn();$('wm39').fadeOut('fast');$('cm39').slideDown('fast');}
 
-function cb40() {$('nbox').html('39');cbs8(); $('cb40').hide();$('wb40').hide();$('ch40').fadeIn();$('wm40').fadeOut('fast');$('cm40').slideDown('fast');}
+function cb40() {$('nbox').html('39');cbs40(); $('cb40').hide();$('wb40').hide();$('ch40').fadeIn();$('wm40').fadeOut('fast');$('cm40').slideDown('fast');}
 
-function cb41() {$('nbox').html('40');cbs9(); $('cb41').hide();$('wb41').hide();$('ch41').fadeIn();$('wm41').fadeOut('fast');$('cm41').slideDown('fast');}
+function cb41() {$('nbox').html('40');cbs41(); $('cb41').hide();$('wb41').hide();$('ch41').fadeIn();$('wm41').fadeOut('fast');$('cm41').slideDown('fast');}
 
-function cb42() {$('nbox').html('41');cbs10(); $('cb42').hide();$('wb42').hide();$('ch42').fadeIn();$('wm42').fadeOut('fast');$('cm42').slideDown('fast');}
+function cb42() {$('nbox').html('41');cbs42(); $('cb42').hide();$('wb42').hide();$('ch42').fadeIn();$('wm42').fadeOut('fast');$('cm42').slideDown('fast');}
 
-function cb43() {$('nbox').html('42');cbs11(); $('cb43').hide();$('wb43').hide();$('ch43').fadeIn();$('wm43').fadeOut('fast');$('cm43').slideDown('fast');}
+function cb43() {$('nbox').html('42');cbs43(); $('cb43').hide();$('wb43').hide();$('ch43').fadeIn();$('wm43').fadeOut('fast');$('cm43').slideDown('fast');}
 
-function cb44() {$('nbox').html('43');cbs12(); $('cb44').hide();$('wb44').hide();$('ch44').fadeIn();$('wm44').fadeOut('fast');$('cm44').slideDown('fast');}
+function cb44() {$('nbox').html('43');cbs44(); $('cb44').hide();$('wb44').hide();$('ch44').fadeIn();$('wm44').fadeOut('fast');$('cm44').slideDown('fast');}
 
 function cb45() {$('nbox').html('44');cbs45(); $('cb45').hide();$('wb45').hide();$('ch45').fadeIn();$('wm45').fadeOut('fast');$('cm45').slideDown('fast');}
 
