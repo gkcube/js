@@ -120,7 +120,7 @@ function cb60() {$('nbox').html('59');cbs60(); $('cb60').hide();$('wb60').hide()
 
 
 
-function wb1() {$('nbox').html('0');wbs1();$('wm1').fadeOut('fast');$('wm1').slideDown('fast');}
+function wb1() {wbs1();$('wm1').finish();$('wm1').fadeOut('fast');$('wm1').slideDown('fast');}
 function wb2() {$('nbox').html('1');wbs2();$('wm2').fadeOut('fast');$('wm2').slideDown('fast');}
 function wb3() {$('nbox').html('2');wbs3();$('wm3').fadeOut('fast');$('wm3').slideDown('fast');}
 function wb4() {$('nbox').html('3');wbs4();$('wm4').fadeOut('fast');$('wm4').slideDown('fast');}
