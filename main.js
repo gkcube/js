@@ -282,7 +282,7 @@ function wb120() {wbs120();$('wm40').finish();$('wm40').hide();$('wm40').slideDo
 function wb121() {wbs121();$('wm41').finish();$('wm41').hide();$('wm41').slideDown('fast');
                 $(".wbt121").addClass("wbtr");$(".wbt122,.wbt123").removeClass("wbtr");}
 function wb122() {wbs122();$('wm41').finish();$('wm41').hide();$('wm41').slideDown('fast');
-                $(".wbt2").addClass("wbtr");$(".wbt121,.wbt123").removeClass("wbtr");}
+                $(".wbt122").addClass("wbtr");$(".wbt121,.wbt123").removeClass("wbtr");}
 function wb123()  {wbs123();$('wm41').finish();$('wm41').hide();$('wm41').slideDown('fast');
                  $(".wbt123").addClass("wbtr");$(".wbt122,.wbt121").removeClass("wbtr");}
   
