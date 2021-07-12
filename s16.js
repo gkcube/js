@@ -1,5 +1,5 @@
 
-<!-- Correct Button and Wrong Button Local Storage -->
+
 var l = localStorage;
   
 function ccc() {var c = $('#sbox');
